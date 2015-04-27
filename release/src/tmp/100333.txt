@@ -1,7 +1,0 @@
-127.0.0.1 - - [Sat Apr 25 2015 14:47:55 GMT-0300] "GET /corsa.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sat Apr 25 2015 15:15:55 GMT-0300] "GET /cruze.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sat Apr 25 2015 19:47:55 GMT-0300] "GET /fiesta.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 18:47:55 GMT-0300] "GET /uno.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 19:25:55 GMT-0300] "GET /bravo.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 19:47:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 20:25:55 GMT-0300] "GET /tiguan.jpg HTTP/1.1" 200 2148 "-" "userid=100333"

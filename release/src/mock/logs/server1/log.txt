@@ -1,8 +1,0 @@
-127.0.0.1 - - [Sun Apr 26 2015 19:41:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100111"
-127.0.0.1 - - [Sun Apr 26 2015 19:47:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 19:51:55 GMT-0300] "GET /jetta.jpg HTTP/1.1" 200 2148 "-" "userid=100111"
-127.0.0.1 - - [Sun Apr 26 2015 20:21:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100444"
-127.0.0.1 - - [Sun Apr 26 2015 20:25:55 GMT-0300] "GET /tiguan.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
-127.0.0.1 - - [Sun Apr 26 2015 20:34:55 GMT-0300] "GET /jetta.jpg HTTP/1.1" 200 2148 "-" "userid=100444"
-127.0.0.1 - - [Sun Apr 26 2015 20:41:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100555"
-127.0.0.1 - - [Sun Apr 26 2015 20:43:55 GMT-0300] "GET /tiguan.jpg HTTP/1.1" 200 2148 "-" "userid=100111"
