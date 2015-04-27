@@ -1,0 +1,4 @@
+127.0.0.1 - - [Sat Apr 25 2015 19:41:55 GMT-0300] "GET /fiesta.jpg HTTP/1.1" 200 2148 "-" "userid=100111"
+127.0.0.1 - - [Sat Apr 25 2015 19:47:55 GMT-0300] "GET /fiesta.jpg HTTP/1.1" 200 2148 "-" "userid=100333"
+127.0.0.1 - - [Sat Apr 25 2015 19:51:55 GMT-0300] "GET /mondeo.jpg HTTP/1.1" 200 2148 "-" "userid=100111"
+127.0.0.1 - - [Sat Apr 25 2015 20:21:55 GMT-0300] "GET /ka.jpg HTTP/1.1" 200 2148 "-" "userid=100444"

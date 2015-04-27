@@ -1,0 +1,4 @@
+127.0.0.1 - - [Sat Apr 25 2015 15:31:55 GMT-0300] "GET /classic.jpg HTTP/1.1" 200 2148 "-" "userid=100555"
+127.0.0.1 - - [Sat Apr 25 2015 15:52:55 GMT-0300] "GET /onix.jpg HTTP/1.1" 200 2148 "-" "userid=100555"
+127.0.0.1 - - [Sat Apr 25 2015 15:57:55 GMT-0300] "GET /prisma.jpg HTTP/1.1" 200 2148 "-" "userid=100555"
+127.0.0.1 - - [Sun Apr 26 2015 20:41:55 GMT-0300] "GET /fox.jpg HTTP/1.1" 200 2148 "-" "userid=100555"
